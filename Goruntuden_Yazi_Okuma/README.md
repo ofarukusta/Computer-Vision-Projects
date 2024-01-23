@@ -21,4 +21,4 @@ pip install pytesseract
 <h1>UYGULAMA</h1>
 </div>
 
-
+![Ekran görüntüsü 2024-01-23 130139](https://github.com/ofarukusta/Computer-Vision-Projects/assets/110857814/7757aedd-ef10-40f9-a422-569373aa646d)

@@ -20,4 +20,5 @@ pip install pytesseract
 <div align= "center">
 <h1>UYGULAMA</h1>
 </div>
-![image](https://github.com/ofarukusta/Computer-Vision-Projects/assets/110857814/c58b3464-d3b6-43ce-b720-a235b7e92578)
+
+

@@ -35,9 +35,7 @@
 <hr/>
 
 <h3 align="center">Connect with me:</h3>
-
-
-
+<div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ömer-faruk-usta-b1aa25204/)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ofaruk_usta?igshid=Yjk4NWM2ZWVkMw==)

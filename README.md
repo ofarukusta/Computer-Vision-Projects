@@ -20,16 +20,16 @@
 
 | Sıra | Kaynak Kod                                                                                                                              | Durum           |
 | ---- | ----------------------------------------------------------------------------------------------------------------------------------------| ------------------|
-| `01` | **[Görüntüden Yazı Okuma](https://github.com/ofarukusta/Computer-Vision-Projects/tree/main/Goruntuden_Yazi_Okuma)**                     | | Tamamlandı    |
-| `02` | **[Screen Recorder](https://github.com/ofarukusta/Computer-Vision-Projects/tree/main/Screen_Recorder)**                                 | | Tamamlandı    |
-| `03` | **[QR and Barcode Scanner](https://github.com/ofarukusta/Computer-Vision-Projects/tree/main/QR-Barcode%20Scanner)**                     | | Tamamlandı    |
-| `04` | **[Background Changer](https://github.com/ofarukusta/Computer-Vision-Projects/tree/main/BackgroundChanger)**                            | | Tamamlandı    |
-| `05` | **[JPGtoPDF Dönüştürücü](https://github.com/ofarukusta/Computer-Vision-Projects/tree/main/jpg2pdf%20Python)**                           | | Tamamlandı    |
-| `06` | **[Yüz Bölge Analizi](https://github.com/ofarukusta/Computer-Vision-Projects/tree/main/yuz_bolge_analizi)**                             | | Tamamlandı    |
-| `07` | **[Yüz Tanıma ve Duygu Tespiti](https://github.com/ofarukusta/Computer-Vision-Projects/tree/main/yüz_tanima_ve_duygu_tespiti)**         | | Tamamlandı    |
-| `08` | **[Real Time Duygu Analizi](https://github.com/ofarukusta/Computer-Vision-Projects/tree/main/Emotion-recognition-master)**              | | Tamamlandı    |
-| `09` | **[Otopark Otomatik Kontrol Sistemi](https://github.com/ofarukusta/Computer-Vision-Projects/tree/main/Parking_Space_Counter)**          | | Tamamlandı    |
-| `10` | **[Parmak ile Ses Kontrol Uygulaması](https://github.com/ofarukusta/Computer-Vision-Projects/tree/main/Parmak%20ile%20Ses%20Kontrolü)** | | Tamamlandı    |
+| `01` | **[Görüntüden Yazı Okuma](https://github.com/ofarukusta/Computer-Vision-Projects/tree/main/Goruntuden_Yazi_Okuma)**                     |  Tamamlandı    |
+| `02` | **[Screen Recorder](https://github.com/ofarukusta/Computer-Vision-Projects/tree/main/Screen_Recorder)**                                 | Tamamlandı    |
+| `03` | **[QR and Barcode Scanner](https://github.com/ofarukusta/Computer-Vision-Projects/tree/main/QR-Barcode%20Scanner)**                     | Tamamlandı    |
+| `04` | **[Background Changer](https://github.com/ofarukusta/Computer-Vision-Projects/tree/main/BackgroundChanger)**                            | Tamamlandı    |
+| `05` | **[JPGtoPDF Dönüştürücü](https://github.com/ofarukusta/Computer-Vision-Projects/tree/main/jpg2pdf%20Python)**                           |  Tamamlandı    |
+| `06` | **[Yüz Bölge Analizi](https://github.com/ofarukusta/Computer-Vision-Projects/tree/main/yuz_bolge_analizi)**                             |  Tamamlandı    |
+| `07` | **[Yüz Tanıma ve Duygu Tespiti](https://github.com/ofarukusta/Computer-Vision-Projects/tree/main/yüz_tanima_ve_duygu_tespiti)**         |  Tamamlandı    |
+| `08` | **[Real Time Duygu Analizi](https://github.com/ofarukusta/Computer-Vision-Projects/tree/main/Emotion-recognition-master)**              |  Tamamlandı    |
+| `09` | **[Otopark Otomatik Kontrol Sistemi](https://github.com/ofarukusta/Computer-Vision-Projects/tree/main/Parking_Space_Counter)**          | Tamamlandı    |
+| `10` | **[Parmak ile Ses Kontrol Uygulaması](https://github.com/ofarukusta/Computer-Vision-Projects/tree/main/Parmak%20ile%20Ses%20Kontrolü)** | Tamamlandı    |
 
 
 <hr/>

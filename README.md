@@ -17,7 +17,7 @@
 <hr/>
 
 <h2 align="center"> Projeler </h2>
-
+<div align= "center">
 | Sıra | Kaynak Kod                                                                                                                              | Durum           |
 | ---- | ----------------------------------------------------------------------------------------------------------------------------------------| ------------------|
 | `01` | **[Görüntüden Yazı Okuma](https://github.com/ofarukusta/Computer-Vision-Projects/tree/main/Goruntuden_Yazi_Okuma)**                     |  Tamamlandı    |
@@ -30,7 +30,7 @@
 | `08` | **[Real Time Duygu Analizi](https://github.com/ofarukusta/Computer-Vision-Projects/tree/main/Emotion-recognition-master)**              |  Tamamlandı    |
 | `09` | **[Otopark Otomatik Kontrol Sistemi](https://github.com/ofarukusta/Computer-Vision-Projects/tree/main/Parking_Space_Counter)**          | Tamamlandı    |
 | `10` | **[Parmak ile Ses Kontrol Uygulaması](https://github.com/ofarukusta/Computer-Vision-Projects/tree/main/Parmak%20ile%20Ses%20Kontrolü)** | Tamamlandı    |
-
+</div>
 
 <hr/>
 

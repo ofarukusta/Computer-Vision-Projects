@@ -1,5 +1,5 @@
 <div align= "center">
-<h1>10 gün 10 Proje -- Computer Vision</h1>
+<h1>Başlangıç Seviyesinden İleri Seviyeye 10 adet Görüntü İşleme Projesi</h1>
 </div>
 
 <hr/>

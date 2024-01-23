@@ -1,14 +1,15 @@
 <div align= "center">
-<img  src="https://skillicons.dev/icons?i=html" /> <img  src="https://skillicons.dev/icons?i=css" /> <img  src="https://skillicons.dev/icons?i=js" /> 
-<h1>50 Gün 50 Proje</h1>
+<h1>10 gün 10 Proje -- Computer Vision</h1>
 </div>
 
 <hr/>
 
 - <b> İçerik: </b>
-  - Bu repository tamamen proje bazlıdır ve özellikle yeni başlayanlar için temel projeler içermektedir. Toplamda 50 mini proje, HTML, CSS ve JavaScript ile ilgilidir. İlgili projelerin kaynak kodlarına ve YouTube video bağlantılarına, aşağıdaki "Projeler" tablosunu üzerinden rahatlıkla ulaşabilirsiniz.
+  - Çalışma boyunca basit seviyeden ileri seviyeye çeşitli Bilgisayarlı Görü projeleri geliştirilmiş/düzenlenmiştir. Repo içerisinde, Görüntü İşleme alanında çalışan veya çalışmaya yeni başlayanlar için örnek projeler bulunmaktadır.
 - <b> Düzen: </b>
-  - Projeler klasör klasör toplanmış olup Projeler kısmında ilgili proje üzerine gelip kaynak kodlarına ve videolar için YouTube bağlantılarına tıklayarak ulaşabilirsiniz.
+  - Projeler klasör klasör toplanmış olup Projeler kısmında ilgili proje üzerine tıklayarak kaynak kodlarına ulaşabilirsiniz.
+- <b> Bilgilendirme: </b>
+  - 9 ve 10 numaralı projeler geliştirilirken "CVZone" 8 numaralı proje geliştirilirken ise [@otaha178](https://github.com/otaha178)'in projelerinden esinlenilmiştir.
 
 <hr/>
 
@@ -34,9 +35,12 @@
 
 <hr/>
 
-<h4> Aktif Kullandığım hesaplar:</h4>
+<h3 align="center">Connect with me:</h3>
+<div align="center">
 
-- YouTube: <a href="https://www.youtube.com/c/OzanTekin">Ozan Tekin</a>
-- LinkedIn: <a href="https://www.linkedin.com/in/ardilozantekin/">Ardıl Ozan Tekin</a>
-- Medium: <a href="https://medium.com/@ozantekindev">@ozantekindev</a>
-- Twitter: <a href="https://twitter.com/ozantekindev">@ozantekindev</a>
+
+
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ömer-faruk-usta-b1aa25204/)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ofaruk_usta?igshid=Yjk4NWM2ZWVkMw==)
+[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ofarukusta1903@gmail.com)
+

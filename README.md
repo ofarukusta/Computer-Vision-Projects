@@ -8,12 +8,11 @@
   - Çalışma boyunca basit seviyeden ileri seviyeye çeşitli Bilgisayarlı Görü projeleri geliştirilmiş/düzenlenmiştir. Repo içerisinde, Görüntü İşleme alanında çalışan veya çalışmaya yeni başlayanlar için örnek projeler bulunmaktadır.
 - <b> Düzen: </b>
   - Projeler klasör klasör toplanmış olup Projeler kısmında ilgili proje üzerine tıklayarak kaynak kodlarına ulaşabilirsiniz.
-- <b> Bilgilendirme: </b>
-  - 9 ve 10 numaralı projeler geliştirilirken "CVZone" 8 numaralı proje geliştirilirken ise [@otaha178](https://github.com/otaha178)'in projelerinden esinlenilmiştir.
+
 
 <hr/>
 
-- ###### Brad Traversy ve Florin Pop'un eğitmenliğini yaptığı "50 Projects In 50 Days - HTML, CSS & JavaScript" kursunun kendi çalışma filtrelerimden geçirilmiş hali sunulmuştur.
+- ###### 9 ve 10 numaralı projeler geliştirilirken "CVZone" 8 numaralı proje geliştirilirken ise [@otaha178](https://github.com/otaha178)'in projelerinden esinlenilmiştir..
 
 <hr/>
 

@@ -7,7 +7,7 @@
 - <b> İçerik: </b>
   - Çalışma boyunca basit seviyeden ileri seviyeye çeşitli Bilgisayarlı Görü projeleri geliştirilmiş/düzenlenmiştir. Repo içerisinde, Görüntü İşleme alanında çalışan veya çalışmaya yeni başlayanlar için örnek projeler bulunmaktadır.
 - <b> Düzen: </b>
-  - Projeler klasör klasör toplanmıştur, Projeler kısmından ilgili proje üzerine tıklayarak kaynak kodlarına ulaşabilirsiniz.
+  - Projeler klasör klasör toplanmıştır, Projeler kısmından ilgili proje üzerine tıklayarak kaynak kodlarına ulaşabilirsiniz.
 
 
 <hr/>

@@ -12,3 +12,9 @@ Uygulamaya ait örnek görsel bu şekilde verilebilir. Uygulamanın detayları k
 ```
 python deneme.py
 ```
+
+<div align= "center">
+<h1>Mediapipe Hand Landmarks</h1>
+</div>
+
+![hand_landmarks](https://github.com/ofarukusta/Computer-Vision-Projects/assets/110857814/e131a36a-d18f-40f9-98c9-88a151615cdc)
